@@ -40,6 +40,9 @@ def test_for_winner(board)
   return 'z'
 end
 
+# write a funciton that will test all the places on the board
+# possible next moves
+#
 # Tests
 if test_for_winner(
         [[ "o", "o", "o" ],
